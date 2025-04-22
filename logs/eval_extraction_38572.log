@@ -1,0 +1,2 @@
+/var/spool/slurmd/job38572/slurm_script: line 15: .env/bin/activate: Not a directory
+/var/spool/slurmd/job38572/slurm_script: line 17: python: command not found

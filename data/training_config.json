@@ -1,6 +1,0 @@
-{
-    "batch_size": 64,
-    "num_train_epochs": 3,
-    "matryoshka_dims": [768, 512, 256, 128, 64],
-    "warmup_ratio": 0.1
-}
